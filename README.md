@@ -10,3 +10,4 @@
 8. to get all todos "/todolist/all"
 9. header {token: Bearer ${token}}
 10. no 9 is applicable to no 7 & no 8
+11. .env file can be created and inside will be MONGO_URL & JWT_SEC for only auth & todo folder
